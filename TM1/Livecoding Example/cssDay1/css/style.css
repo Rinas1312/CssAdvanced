@@ -1,0 +1,30 @@
+body {
+    background-color: bisque ;
+}
+
+p {
+    color: blue; /* Tags are overriden by classes */
+}
+
+/* CLASS SELECTORS */
+
+.intro {
+    color: red;
+}
+
+.description {
+    color: orange;
+}
+
+.list li {
+    color: pink;
+}
+
+.list > li {
+    color: red;
+}
+
+/* ID SELECTORS */
+#heading {
+    color:green;
+}
