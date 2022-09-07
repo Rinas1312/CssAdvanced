@@ -1,0 +1,46 @@
+body {
+  background-color: beige;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+h4 {
+    font-style: italic;
+}
+
+img {
+  width: 1100px;
+  height: 700px;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+.paragraphs {
+  padding-top: 3px;
+}
+
+#intro {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#intro h4 {
+  font-size: 20px;
+}
+
+#image_text {
+  font-size: 20px;
+  padding-left: 500px;
+  padding-right: 500px;
+  text-align: center;
+}
