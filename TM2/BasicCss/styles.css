@@ -1,0 +1,15 @@
+.container{
+  margin: 5px;
+}
+h1{
+  color: blue;
+}
+p > span{
+  visibility: hidden;
+}
+.right > p{
+  visibility: hidden;
+}
+img{
+  width: 300px;
+}
